@@ -1,1 +1,2 @@
 # Welfare-of-data-professionals.
+This is a live dataset that was taken from data professionals around the world. This dataset aimed at gathering insights on the industry and how the professionals are fairing in the industry, the different categories of data professionals, the disparity between the different genders, their preferred programming language and the number different countries. This data was gotten from a data professional, and was used in my analysis. PowerBI was used for the transformation and visualization of this data.
